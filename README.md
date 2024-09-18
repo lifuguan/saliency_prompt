@@ -8,7 +8,7 @@
 
 > CVPR 2023
 
-## Brewing🍺, code coming soon.
+## Related code has been moved into [UPLVP](https://github.com/lifuguan/UPLVP).
 ## Citation
 
 If you find this code useful for your research, please use the following BibTeX entry.
